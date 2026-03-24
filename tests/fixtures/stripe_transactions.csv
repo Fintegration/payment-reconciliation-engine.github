@@ -1,0 +1,8 @@
+id,payment_intent,amount,currency,created,status
+ch_001,REF001,10000,usd,2026-03-01T10:05:00,succeeded
+ch_002,REF002,25050,usd,2026-03-01T11:35:00,succeeded
+ch_003,REF003,7500,usd,2026-03-02T09:02:00,succeeded
+ch_004,REF004,49500,usd,2026-03-02T14:05:00,succeeded
+ch_005,REF005,120000,usd,2026-03-03T08:10:00,succeeded
+ch_006,REF006,8999,usd,2026-03-03T16:03:00,succeeded
+ch_099,REF099,3000,usd,2026-03-04T20:00:00,succeeded

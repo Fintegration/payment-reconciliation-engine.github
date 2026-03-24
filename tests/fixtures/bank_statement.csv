@@ -1,0 +1,4 @@
+txn_ref,reference,amount,currency,date,type
+BNK001,REF009,999.99,USD,2026-03-05T09:30:00,credit
+BNK002,REF010,50.00,USD,2026-03-05T15:30:00,credit
+BNK003,REF011,200.00,USD,2026-03-06T10:00:00,credit
